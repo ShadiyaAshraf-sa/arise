@@ -1,2 +1,4 @@
-malayalam
-urudu
+Malayalam
+Urudu
+Tamil
+Telungu
